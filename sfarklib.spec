@@ -4,7 +4,7 @@
 
 Name:		sfarklib
 Version:	2.24
-Release:	1
+Release:	2
 Summary:	Library for decompressing sfArk sound fonts
 License:	GPLv3
 Group:		System/Libraries
